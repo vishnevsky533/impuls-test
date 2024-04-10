@@ -5,21 +5,21 @@
         <link>https://portfolio-blog-starter.vercel.app</link>
         <description>This is my portfolio RSS feed</description>
         <item>
-          <title>Поступление новых велосипедов Stels!</title>
-          <link>https://portfolio-blog-starter.vercel.app/blog/vim</link>
-          <description>Discover why Vim, with its steep learning curve, remains a beloved tool among developers for editing code efficiently and effectively.</description>
+          <title>Новые Поступления велосипетов Stels</title>
+          <link>https://portfolio-blog-starter.vercel.app/blog/stels</link>
+          <description>Новые Поступления велосипетов Stels</description>
           <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
         </item>
 <item>
           <title>АКЦИЯ! Только ближайшие 2 недели скидки 20%</title>
-          <link>https://portfolio-blog-starter.vercel.app/blog/spaces-vs-tabs</link>
-          <description>Explore the enduring debate between using spaces and tabs for code indentation, and why this choice matters more than you might think.</description>
+          <link>https://portfolio-blog-starter.vercel.app/blog/discount</link>
+          <description>Специальное Предложение: Скидка 20% на Все Товары в Течение Ближайших Двух Недель!</description>
           <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
         </item>
 <item>
-          <title>Ура магазин открылся!</title>
-          <link>https://portfolio-blog-starter.vercel.app/blog/static-typing</link>
-          <description>In the ever-evolving landscape of software development, the debate between dynamic and static typing continues to be a hot topic.</description>
+          <title>Ура! Открытие Магазина Импульс!</title>
+          <link>https://portfolio-blog-starter.vercel.app/blog/open</link>
+          <description>Открытие Магазина "Импульс</description>
           <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
